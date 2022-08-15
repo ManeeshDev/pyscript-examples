@@ -1,4 +1,4 @@
-# PyScript Examples
+# PyScript Examples Tests 
 
 Examples of web pages developed with PyScript framework
 
